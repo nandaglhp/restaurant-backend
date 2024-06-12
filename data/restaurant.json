@@ -1,0 +1,11 @@
+{
+	"restaurants": [
+		{
+			"name": "Burger King",
+			"address": "123 Main St",
+			"phone": "123-456-7890",
+			"rating": 4.5,
+			"review": "Great burger!"
+		}
+	]
+}
